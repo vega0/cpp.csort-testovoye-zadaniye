@@ -9,3 +9,7 @@ CSort проверочное задание.
 
 
 Для сборки и запуска, запустите **build.sh**
+
+
+Зависимости
+https://github.com/wxWidgets/wxWidgets
